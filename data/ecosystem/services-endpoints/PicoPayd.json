@@ -1,6 +1,6 @@
 {
   "name": "PicoPayd",
-  "description": " Pay-per-call APIs for AI agents. Offers utility APIs — email/phone/domain validation, DNS/WHOIS checks, image conversion/optimization, QR code generation, HTML-to-PDF — priced at $0.001–$0.01/call.",
+  "description": "Utility APIs: email/phone/domain validation, DNS/WHOIS, image and document conversion/optimization, QR code, and more for $0.001–$0.01/call",
   "url": "https://picopayd.codefission.co.uk.com",
   "category": "services-endpoints",
   "logo": "/logos/picopayd.png"
